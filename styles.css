@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url('https://assets.thehansindia.com/h-upload/2021/07/31/1600x960_1092805-tech.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
